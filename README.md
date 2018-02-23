@@ -1,2 +1,2 @@
 # Genetic-Algorithm-Case
-Testing some genetic algorithm concepts out
+Mutating / Evolving String to match Target case
